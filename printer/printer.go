@@ -1,5 +1,5 @@
 package printer
 
 func PrintMe() {
-	println("ME")
+	println("ME v2")
 }
